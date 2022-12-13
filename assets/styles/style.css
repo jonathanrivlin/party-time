@@ -55,7 +55,7 @@ p {
     font-weight: 600;
 }
 
-i {
+#features i {
     overflow: hidden;
     vertical-align: middle;
     color: #4b41ff;
